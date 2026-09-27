@@ -1,0 +1,44 @@
+
+# Data Processing
+numpy
+pandas
+scipy
+
+
+# Statistics & Time Series
+statsmodels
+arch
+
+
+# Machine Learning
+scikit-learn
+
+
+# Market Data
+yfinance
+
+
+# Backend / API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+
+# Configuration
+python-dotenv
+
+
+# Visualization
+plotly
+
+
+# Testing
+pytest
+httpx
